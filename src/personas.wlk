@@ -19,3 +19,7 @@ object luisa {
 object juan {
 	method leGusta(objeto) { return not(objeto.color().esFuerte()) or (objeto.peso()>1200 and objeto.peso()<1800)}
 } 
+
+object fds{
+	
+}
